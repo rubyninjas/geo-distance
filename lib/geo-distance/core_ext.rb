@@ -10,7 +10,7 @@ module GeoDistanceExt
   end
 end
 
-class Fixnum
+class Integer
   include GeoDistanceExt
 end
 

@@ -39,7 +39,7 @@ pkg/
 #tmtags
 #
 # For emacs:
-#*~
+*~
 #\#*
 #.\#*
 #
